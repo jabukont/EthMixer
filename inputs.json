@@ -1,0 +1,10 @@
+{
+  "eth_sent_per_transaction" : [0.1,2.1],
+  "transaction_speed"  :  0.0001,
+  "sim_duration" : 60,
+  "pool_holding_time" : 10,
+  "fee_percentage" : [0,5],
+  "gas_price" : 2000000,
+  "percent_noise:": 0.5,
+  "total" : 0
+}
